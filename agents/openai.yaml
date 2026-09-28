@@ -1,0 +1,4 @@
+interface:
+  display_name: "Matplotlib Data Visualization"
+  short_description: "Choose and build clear analytical charts in Python"
+  default_prompt: "Use $matplotlib-data-visualization to choose the right chart for this data, build it with modern Matplotlib/Seaborn APIs, and audit the result for analytical accuracy and readability."
